@@ -1,0 +1,27 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestComponenteExamen"
+        xmlns:ComponenteExamenLuzuriaga="clr-namespace:ComponenteExamenLuzuriaga;assembly=ComponenteExamenLuzuriaga" x:Class="TestComponenteExamen.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="Auto" Width="Auto" MinHeight="300" MinWidth="180">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ComponenteExamenLuzuriaga:UserControl1 ListBoxSizeChanged="componente_ListBoxSizeChanged" x:Name="componente" Height="Auto" Width="Auto" Grid.Row="0" Grid.ColumnSpan="2" TextBoxMaxLength="6" ListBoxMaxLength="8"/>
+        <TextBox x:Name="textBox" IsReadOnly="True" Height="Auto" Width="Auto" Grid.Row="1" Grid.Column="0" Margin="5,5,5,5"/>
+        <Button Click="Button_Click" Grid.Row="1" Grid.Column="1" Height="Auto" Width="Auto" Content="Acción" FontSize="8" Margin="5,5,5,5"/>
+        <Image x:Name="image" Grid.ColumnSpan="2" Grid.RowSpan="2" Source="/perro.jpg" Height="80" Visibility="Collapsed"/>
+    </Grid>
+</Window>

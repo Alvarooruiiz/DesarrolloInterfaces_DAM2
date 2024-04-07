@@ -1,0 +1,39 @@
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.dll
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.pdb
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.AssemblyReference.cache
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\UserControl1.g.cs
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora_MarkupCompile.cache
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora_MarkupCompile.lref
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\UserControl1.baml
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.g.resources
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.Properties.Resources.resources
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.GenerateResource.cache
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.CoreCompileInputs.cache
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.dll
+D:\ProyectosVisualStudio\RecuperacionComponentes\Calculadora\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.pdb
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.dll
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.pdb
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.AssemblyReference.cache
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\UserControl1.g.cs
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora_MarkupCompile.cache
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora_MarkupCompile.lref
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\UserControl1.baml
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.g.resources
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.Properties.Resources.resources
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.GenerateResource.cache
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.CoreCompileInputs.cache
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.dll
+D:\Grado Superior\Curso 2023-2024\Desarrollo de Interfaces - Javier\Tema 4\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.pdb
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.dll
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\bin\Debug\BibliotecaCalculadora.pdb
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\UserControl1.g.cs
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora_MarkupCompile.cache
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora_MarkupCompile.lref
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\UserControl1.baml
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.g.resources
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.Properties.Resources.resources
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaExamen.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.dll
+C:\Users\alvar\source\repos\PruebasRecuperaciones\BibliotecaCalculadora\BibliotecaCalculadora\obj\Debug\BibliotecaCalculadora.pdb

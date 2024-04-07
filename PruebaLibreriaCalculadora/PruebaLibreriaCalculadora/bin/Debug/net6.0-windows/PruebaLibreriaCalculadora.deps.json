@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PruebaLibreriaCalculadora/1.0.0": {
+        "dependencies": {
+          "BibliotecaControlesUsuario": "1.0.0.0",
+          "PrimerComponenteLibreria": "1.0.0.0"
+        },
+        "runtime": {
+          "PruebaLibreriaCalculadora.dll": {}
+        }
+      },
+      "BibliotecaControlesUsuario/1.0.0.0": {
+        "runtime": {
+          "BibliotecaControlesUsuario.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrimerComponenteLibreria/1.0.0.0": {
+        "runtime": {
+          "PrimerComponenteLibreria.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaLibreriaCalculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaControlesUsuario/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimerComponenteLibreria/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

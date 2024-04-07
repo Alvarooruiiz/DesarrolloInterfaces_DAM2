@@ -1,0 +1,40 @@
+﻿<Window x:Class="Divisas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Divisas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Name="searchBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Width="200" 
+                 TextChanged="ComboBox_TextChanged"/>
+
+        <ComboBox Name="comboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,32,0,0" Width="200"
+                  IsEditable="False" IsTextSearchEnabled="False" TextSearch.TextPath="{x:Null}"
+                  SelectionChanged="ComboBox_SelectionChanged" RenderTransformOrigin="0.55,-1.197"/>
+
+        <ListBox Name="selectedCitiesListBox" Grid.Row="1" Grid.Column="1" Margin="10">
+            <!-- Enlaza el ListBox a la colección de ciudades seleccionadas -->
+            <ListBox.ItemsSource>
+                <Binding Path="SelectedCities" RelativeSource="{RelativeSource AncestorType={x:Type local:MainWindow}}"/>
+            </ListBox.ItemsSource>
+        </ListBox>
+        <Button Content="Reset" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Height="63" Width="128" Click="Button_Click"/>
+
+
+
+    </Grid>
+</Window>

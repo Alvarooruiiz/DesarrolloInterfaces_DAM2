@@ -1,0 +1,13 @@
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\bin\Debug\RelojDigital.dll
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\bin\Debug\RelojDigital.pdb
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\UserControl1.g.cs
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital_MarkupCompile.cache
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital_MarkupCompile.lref
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\UserControl1.baml
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital.g.resources
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital.Properties.Resources.resources
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital.dll
+C:\Users\alvar\source\repos\Tema4\RelojDigital\RelojDigital\obj\Debug\RelojDigital.pdb

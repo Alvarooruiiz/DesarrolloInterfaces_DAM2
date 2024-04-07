@@ -1,0 +1,16 @@
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\bin\Debug\ComponenteRelojCompleto.dll
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\bin\Debug\ComponenteRelojCompleto.pdb
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\bin\Debug\RelojDigital.dll
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\bin\Debug\RelojDigital.pdb
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\UserControl1.g.cs
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto_MarkupCompile.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto_MarkupCompile.lref
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\UserControl1.baml
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.g.resources
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.Properties.Resources.resources
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.csproj.CopyComplete
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.dll
+C:\Users\alvar\source\repos\Tema4\ComponenteRelojCompleto\ComponenteRelojCompleto\obj\Debug\ComponenteRelojCompleto.pdb

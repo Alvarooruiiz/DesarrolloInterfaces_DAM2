@@ -1,0 +1,13 @@
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\bin\Debug\ComponenteExamen29-01.dll
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\bin\Debug\ComponenteExamen29-01.pdb
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\UserControl1.g.cs
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01_MarkupCompile.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01_MarkupCompile.lref
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\UserControl1.baml
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01.g.resources
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29_01.Properties.Resources.resources
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01.dll
+C:\Users\alvar\source\repos\Tema4\ComponenteExamen29-01\ComponenteExamen29-01\obj\Debug\ComponenteExamen29-01.pdb

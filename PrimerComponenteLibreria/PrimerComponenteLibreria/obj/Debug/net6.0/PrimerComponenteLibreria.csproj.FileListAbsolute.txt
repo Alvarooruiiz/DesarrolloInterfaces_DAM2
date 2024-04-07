@@ -1,0 +1,11 @@
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\bin\Debug\net6.0\PrimerComponenteLibreria.deps.json
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\bin\Debug\net6.0\PrimerComponenteLibreria.dll
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\bin\Debug\net6.0\PrimerComponenteLibreria.pdb
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\PrimerComponenteLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\PrimerComponenteLibreria.AssemblyInfoInputs.cache
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\PrimerComponenteLibreria.AssemblyInfo.cs
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\PrimerComponenteLibreria.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\PrimerComponenteLibreria.dll
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\refint\PrimerComponenteLibreria.dll
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\PrimerComponenteLibreria.pdb
+C:\Users\alvar\source\repos\PrimerComponenteLibreria\PrimerComponenteLibreria\obj\Debug\net6.0\ref\PrimerComponenteLibreria.dll

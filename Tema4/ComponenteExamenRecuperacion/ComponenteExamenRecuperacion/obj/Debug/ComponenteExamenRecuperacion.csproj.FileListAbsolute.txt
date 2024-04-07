@@ -1,0 +1,13 @@
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\bin\Debug\ComponenteExamenRecuperacion.dll
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\bin\Debug\ComponenteExamenRecuperacion.pdb
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\UserControl1.g.cs
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion_MarkupCompile.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion_MarkupCompile.lref
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\UserControl1.baml
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion.g.resources
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion.Properties.Resources.resources
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion.dll
+C:\Users\alvar\source\repos\Tema4\ComponenteExamenRecuperacion\ComponenteExamenRecuperacion\obj\Debug\ComponenteExamenRecuperacion.pdb

@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoExamen29_01"
+        xmlns:ComponenteExamen29_01="clr-namespace:ComponenteExamen29_01;assembly=ComponenteExamen29-01" x:Class="ProyectoExamen29_01.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <ComponenteExamen29_01:UserControl1 x:Name="componente" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" NumMaxLista="3" NumMaxCarac="10"/>
+        <Button x:Name="tbnAdd" Content="Palbra mas larga" HorizontalAlignment="Left" Margin="10,252,0,0" VerticalAlignment="Top" Width="138" Click="tbnAdd_Click"/>
+        <TextBlock x:Name="tbTexto" HorizontalAlignment="Left" Margin="10,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="138"/>
+
+    </Grid>
+</Window>

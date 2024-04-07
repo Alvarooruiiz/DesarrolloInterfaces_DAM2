@@ -1,0 +1,63 @@
+﻿<Window x:Class="GridPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GridPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="945" MinHeight="450" MinWidth="945" MaxHeight="450" MaxWidth="945">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="tbNombre" Margin="48,58,753,334" Grid.Row="1" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <TextBox x:Name="tbApellidos" Margin="212,58,593,334" Grid.Row="1" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <TextBox x:Name="tbDireccion" Margin="380,58,425,334" Grid.Row="1" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+        <Button x:Name="btnAñadirEditar" Content="Añadir" Click="AñadirEditar_Click" Margin="67,344,761,48" Grid.Row="1" />
+        <Button x:Name="btnEliminar" Content="Eliminar" Click="Eliminar_Click" Margin="228,344,601,48" Grid.Row="1" />
+        <Button x:Name="btnReset" Content="Reset" Click="Reset_Click" Margin="396,344,433,48" Grid.Row="1" />
+        <RepeatButton x:Name="btnDisminuirAltura" HorizontalAlignment="Left" Height="20" Margin="224,131,0,0" Grid.Row="1" VerticalAlignment="Top" Width="20" Interval="100" Delay="500" Click="btnDisminuirAltura_Click" Content="&lt;"/>
+        <RepeatButton x:Name="btnAumentarAltura" HorizontalAlignment="Left" Height="20" Margin="316,131,0,0" Grid.Row="1" VerticalAlignment="Top" Width="20" Interval="100" Delay="500" Click="btnAumentarAltura_Click" Content="&gt;" RenderTransformOrigin="-0.063,0.459"/>
+
+        <DataGrid x:Name="dataGrid" Grid.Row="1" AutoGenerateColumns="False" Margin="536,25,10,10" SelectionChanged="DataGrid_SelectionChanged" IsReadOnly="True" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="*"/>
+                <DataGridTextColumn Header="Apellidos" Binding="{Binding Apellidos}" Width="*"/>
+                <DataGridTextColumn Header="Dirección" Binding="{Binding Direccion}" Width="*"/>
+                <DataGridTextColumn Header="Fecha de nacimiento" Binding="{Binding Fecha}" Width="*"/>
+                <DataGridTextColumn Header="Altura" Binding="{Binding Altura}" Width="*"/>
+                <DataGridTextColumn Header="Nº hijos" Binding="{Binding NumHijos}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <CheckBox x:Name="cbTieneHijo" Content="Tiene hijos?" Margin="396,120,441,272" Grid.Row="1" RenderTransformOrigin="0.439,1.566" Checked="cbTieneHijo_Checked" Unchecked="cbTieneHijo_Checked"/>
+        <DatePicker x:Name="datePicker" Margin="48,126,753,261" Grid.Row="1"/>
+        <TextBox x:Name="tbAltura" HorizontalAlignment="Left" Margin="254,131,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" IsReadOnly="True"/>
+        <Slider x:Name="sliderNumHijos" HorizontalAlignment="Left" Margin="364,150,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120" Visibility="Hidden" IsSnapToTickEnabled="True" />
+        <ListBox x:Name="lbHijos" Grid.Row="1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="231,195,617,145" Visibility="Hidden" SelectionChanged="lbHijos_SelectionChanged"/>
+        <TreeView x:Name="tvHijos" Grid.Row="1" Margin="364,195,423,145" Visibility="Hidden"/>
+        <TextBox x:Name="tbNombreHijo" HorizontalAlignment="Left" Margin="52,0,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Height="45" GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus" Visibility="Hidden"/>
+        <Button x:Name="btnAgregarActualizarHijos" Content="Agregar hijo" HorizontalAlignment="Left" Margin="72,259,0,0" Grid.Row="1" VerticalAlignment="Top" Height="30" Width="80" Click="btnAgregarActualizarHijos_Click" Visibility="Hidden"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="48,25,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label Content="Apellido" HorizontalAlignment="Left" Margin="212,25,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label Content="Direccion" HorizontalAlignment="Left" Margin="380,25,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <TextBlock x:Name="tbNHijos" HorizontalAlignment="Left" Margin="502,149,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="29" Height="24" Visibility="Hidden"/>
+
+
+    </Grid>
+
+    <Window.ContextMenu>
+        <ContextMenu Name="MyContextMenu">
+            <MenuItem Header="Cambiar Color de Fondo">
+                <MenuItem Name="Verde" Header="Verde" Click="CambiarColor_Click"/>
+                <MenuItem Name="Cyan" Header="Cyan" Click="CambiarColor_Click"/>
+                <MenuItem Name="Blanco" Header="Blanco" Click="CambiarColor_Click"/>
+            </MenuItem>
+            <MenuItem Name="VaciarLista" Header="Vaciar Lista" Click="VaciarLista_Click"/>
+
+        </ContextMenu>
+    </Window.ContextMenu>
+
+</Window>

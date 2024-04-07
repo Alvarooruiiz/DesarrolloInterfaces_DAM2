@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruebasBibliotecasEn.Net"
+        xmlns:Net="clr-namespace:ControlesUsuariosEn.Net;assembly=ControlesUsuariosEn.Net" x:Class="PruebasBibliotecasEn.Net.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="187*"/>
+        </Grid.ColumnDefinitions>
+        <Net:UserControl1 x:Name="control" VerticalAlignment="Top" ContenidoLabel="0%" TextoTextBox="" Height="374" Loaded="control_Loaded" Margin="10,-35,194,0"/>
+        <Button x:Name="btn_Actualizar" Content="Actualizar" HorizontalAlignment="Left" Margin="393,342,0,0" VerticalAlignment="Top" Click="Button_Click" Height="20" Width="56"/>
+        <Button x:Name="btn_Avanzar" Content="Avance progresivo" HorizontalAlignment="Left" Margin="211,342,0,0" VerticalAlignment="Top" Click="btn_Avanzar_Click" Height="20" Width="102"/>
+        <TextBox x:Name="tb_milisegundos" HorizontalAlignment="Left" Margin="65,344,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <Button x:Name="btn_Pausa" Content="Pausa" HorizontalAlignment="Left" Margin="328,342,0,0" VerticalAlignment="Top" Click="btn_Pausa_Click" Height="20" Width="34"/>
+    </Grid>
+</Window>

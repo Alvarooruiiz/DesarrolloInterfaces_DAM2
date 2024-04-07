@@ -1,0 +1,13 @@
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\bin\Debug\ControlesUsuariosEn.Net.dll
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\bin\Debug\ControlesUsuariosEn.Net.pdb
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\UserControl1.g.cs
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net_MarkupCompile.cache
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net_MarkupCompile.lref
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\UserControl1.baml
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net.g.resources
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net.Properties.Resources.resources
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net.dll
+C:\Users\alvar\source\repos\Tema4\ControlesUsuariosEn.Net\ControlesUsuariosEn.Net\obj\Debug\ControlesUsuariosEn.Net.pdb

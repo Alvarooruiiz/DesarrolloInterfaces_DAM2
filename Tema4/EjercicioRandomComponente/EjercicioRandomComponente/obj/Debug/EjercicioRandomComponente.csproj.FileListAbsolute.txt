@@ -1,0 +1,13 @@
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\bin\Debug\EjercicioRandomComponente.dll
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\bin\Debug\EjercicioRandomComponente.pdb
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\UserControl1.g.cs
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente_MarkupCompile.cache
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente_MarkupCompile.lref
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\UserControl1.baml
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente.g.resources
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente.Properties.Resources.resources
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente.dll
+C:\Users\alvar\source\repos\Tema4\EjercicioRandomComponente\EjercicioRandomComponente\obj\Debug\EjercicioRandomComponente.pdb

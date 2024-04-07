@@ -1,0 +1,150 @@
+﻿Name;Latitude;Longitude;Population;Timezone
+New York City;8175133;-7.400.597;8175133;America/New_York
+Los Angeles;3.405.223;-11.824.368;3971883;America/Los_Angeles
+Chicago;4.185.003;-8.765.005;2720546;America/Chicago
+Houston;2.976.328;-9.536.327;2296224;America/Chicago
+Phoenix;3.344.838;-11.207.404;1563025;America/Phoenix
+Philadelphia;3.995.233;-7.516.379;1567442;America/New_York
+San Antonio;2.942.412;-9.849.363;1469845;America/Chicago
+San Diego;3.271.533;-11.715.726;1394928;America/Los_Angeles
+Dallas;3.278.306;-9.680.667;1300092;America/Chicago
+San Jose;3.733.939;-12.189.496;1026908;America/Los_Angeles
+Austin;3.026.715;-9.774.306;931830;America/Chicago
+Jacksonville;3.033.218;-8.165.565;868031;America/New_York
+San Francisco;3.777.493;-12.241.942;864816;America/Los_Angeles
+Columbus;3.996.118;-8.299.879;850106;America/New_York
+Indianapolis;3.976.838;-8.615.804;829718;America/Indiana/Indianapolis
+Fort Worth;3.272.541;-9.732.085;833319;America/Chicago
+Charlotte;3.522.709;-8.084.313;827097;America/New_York
+Seattle;4.760.621;-12.233.207;684451;America/Los_Angeles
+Denver;3.973.915;-1.049.847;682545;America/Denver
+El Paso;3.175.872;-10.648.693;681124;America/Denver
+Washington, D.C.;3.889.511;-7.703.637;601723;America/New_York
+Boston;4.235.843;-7.105.977;667137;America/New_York
+Detroit;4.233.143;-8.304.575;677116;America/Detroit
+Nashville;3.616.589;-8.678.444;530852;America/Chicago
+Memphis;3.514.953;-9.004.898;655770;America/Chicago
+Portland;4.552.345;-12.267.621;632309;America/Los_Angeles
+Oklahoma City;3.546.756;-9.751.643;631346;America/Chicago
+Las Vegas;3.617.497;-11.513.722;623747;America/Los_Angeles
+Louisville;3.825.424;-8.575.941;243639;America/Kentucky/Louisville
+Baltimore;3.929.038;-7.661.219;621849;America/New_York
+Milwaukee;430.389;-8.790.647;600155;America/Chicago
+Albuquerque;3.508.449;-10.665.114;559121;America/Denver
+Tucson;3.222.174;-11.092.648;531641;America/Phoenix
+Fresno;3.674.773;-11.977.237;520052;America/Los_Angeles
+Sacramento;3.858.157;-1.214.944;490712;America/Los_Angeles
+Mesa;3.342.227;-11.182.264;471825;America/Phoenix
+Kansas City;3.911.417;-9.462.746;151306;America/Chicago
+Atlanta;33.749;-8.438.798;463878;America/New_York
+Long Beach;3.376.696;-11.818.923;474140;America/Los_Angeles
+Colorado Springs;3.883.388;-10.482.136;456568;America/Denver
+Raleigh;357.721;-7.863.861;451066;America/New_York
+Miami;2.577.427;-8.019.366;441003;America/New_York
+Virginia Beach;3.685.293;-7.597.799;452745;America/New_York
+Omaha;4.125.626;-9.594.043;443885;America/Chicago
+Oakland;3.780.437;-1.222.708;419267;America/Los_Angeles
+Minneapolis;4.497.997;-9.326.384;410939;America/Chicago
+Tulsa;3.615.398;-9.599.277;403505;America/Chicago
+Arlington;3.273.569;-9.710.807;388125;America/Chicago
+New Orleans;2.995.465;-9.007.507;389617;America/Chicago
+Wichita;3.769.224;-9.733.754;389965;America/Chicago
+Cleveland;414.995;-8.169.541;388072;America/New_York
+Tampa;2.794.752;-8.245.843;369075;America/New_York
+Bakersfield;3.537.329;-11.901.871;373640;America/Los_Angeles
+Aurora;3.972.943;-10.483.192;359407;America/Denver
+Honolulu;2.130.694;-15.785.833;371657;Pacific/Honolulu
+Anaheim;3.383.529;-1.179.145;350742;America/Los_Angeles
+Santa Ana;3.374.557;-11.786.783;335400;America/Los_Angeles
+Corpus Christi;2.780.058;-9.739.638;324074;America/Chicago
+Riverside;3.395.335;-11.739.616;322424;America/Los_Angeles
+Lexington;3.798.869;-8.447.772;225366;America/New_York
+St. Louis;3.862.727;-9.019.789;315685;America/Chicago
+Stockton;379.577;-12.129.078;305658;America/Los_Angeles
+Pittsburgh;4.044.062;-7.999.589;304391;America/New_York
+Saint Paul;4.494.441;-9.309.327;285068;America/Chicago
+Cincinnati;3.912.711;-8.451.439;296943;America/New_York
+Anchorage;6.121.806;-14.990.028;298695;America/Anchorage
+Henderson;360.397;-11.498.194;285667;America/Los_Angeles
+Greensboro;3.607.264;-7.979.198;285342;America/New_York
+Plano;3.301.984;-9.669.889;283558;America/Chicago
+Newark;4.073.566;-7.417.237;281944;America/New_York
+Lincoln;40.8;-9.666.696;277348;America/Chicago
+Toledo;4.166.394;-8.355.521;279789;America/New_York
+Orlando;2.853.834;-8.137.924;270934;America/New_York
+Chula Vista;3.264.005;-1.170.842;265757;America/Los_Angeles
+Fort Wayne;411.306;-8.512.886;260326;America/Indiana/Indianapolis
+Jersey City;4.072.816;-7.407.764;264290;America/New_York
+Durham;3.599.403;-7.889.862;257636;America/New_York
+St. Petersburg;2.777.086;-8.267.927;257083;America/New_York
+Laredo;2.750.641;-9.950.754;255473;America/Chicago
+Buffalo;4.288.645;-7.887.837;258071;America/New_York
+Madison;4.307.305;-8.940.123;248951;America/Chicago
+Lubbock;3.357.786;-10.185.517;249042;America/Chicago
+Chandler;3.330.616;-11.184.125;260828;America/Phoenix
+Scottsdale;3.350.921;-11.189.903;236839;America/Phoenix
+Glendale;3.353.865;-11.218.599;240126;America/Phoenix
+Reno;3.952.963;-1.198.138;241445;America/Los_Angeles
+Norfolk;3.684.681;-7.628.522;246393;America/New_York
+Winston-Salem;3.609.986;-8.024.422;241218;America/New_York
+North Las Vegas;3.619.886;-1.151.175;234807;America/Los_Angeles
+Chesapeake;3.681.904;-7.627.494;235429;America/New_York
+Gilbert;3.335.283;-11.178.903;247542;America/Phoenix
+Hialeah;258.576;-8.027.811;237069;America/New_York
+Garland;3.291.262;-9.663.888;236897;America/Chicago
+Fremont;3.754.827;-12.198.857;232206;America/Los_Angeles
+Baton Rouge;3.045.075;-9.115.455;228590;America/Chicago
+Richmond;3.755.376;-7.746.026;220289;America/New_York
+Boise;436.135;-11.620.345;145987;America/Boise
+San Bernardino;3.410.834;-11.728.977;216108;America/Los_Angeles
+Spokane;4.765.966;-11.742.908;213272;America/Los_Angeles
+Des Moines;4.160.054;-9.360.911;210330;America/Chicago
+Modesto;376.391;-12.099.688;211266;America/Los_Angeles
+Birmingham;3.352.066;-8.680.249;212461;America/Chicago
+Tacoma;4.725.288;-12.244.429;207948;America/Los_Angeles
+Fontana;3.409.223;-11.743.505;207460;America/Los_Angeles
+Rochester;4.315.478;-7.761.556;209802;America/New_York
+Oxnard;341.975;-11.917.705;207254;America/Los_Angeles
+Moreno Valley;3.393.752;-11.723.059;204198;America/Los_Angeles
+Fayetteville;3.505.266;-7.887.836;201963;America/New_York
+Aurora;4.176.058;-8.832.007;200661;America/Chicago
+Glendale;3.414.251;-11.825.508;201020;America/Los_Angeles
+Yonkers;4.093.121;-7.389.875;201116;America/New_York
+Huntington Beach;336.603;-11.799.923;201899;America/Los_Angeles
+Montgomery;3.236.681;-8.629.997;200602;America/Chicago
+Amarillo;35.222;-1.018.313;198645;America/Chicago
+Little Rock;3.474.648;-9.228.959;197992;America/Chicago
+Akron;4.108.144;-8.151.901;197542;America/New_York
+Columbus;3.246.098;-8.498.771;200579;America/New_York
+Augusta;3.347.097;-8.197.484;43459;America/New_York
+Grand Rapids;4.296.336;-8.566.809;195097;America/Detroit
+Shreveport;3.252.515;-9.375.018;197204;America/Chicago
+Salt Lake City;4.076.078;-11.189.105;192672;America/Denver
+Huntsville;347.304;-8.658.594;190582;America/Chicago
+Mobile;3.069.436;-8.804.305;194288;America/Chicago
+Tallahassee;3.043.826;-8.428.073;189907;America/New_York
+Grand Prairie;3.274.596;-9.699.778;187809;America/Chicago
+Overland Park;3.898.223;-9.467.079;186515;America/Chicago
+Knoxville;3.596.064;-8.392.074;185291;America/New_York
+Port Saint Lucie;2.729.393;-8.035.033;164603;America/New_York
+Worcester;4.226.259;-7.180.229;184815;America/New_York
+Brownsville;2.590.175;-9.749.748;183887;America/Chicago
+Tempe;3.341.477;-11.190.931;175826;America/Phoenix
+Santa Clarita;3.439.166;-11.854.259;182371;America/Los_Angeles
+Newport News;3.708.339;-7.646.965;182385;America/New_York
+Cape Coral;2.656.285;-8.194.953;175229;America/New_York
+Providence;4.182.399;-7.141.283;179207;America/New_York
+Fort Lauderdale;2.612.231;-8.014.338;178590;America/New_York
+Chattanooga;3.504.563;-8.530.968;176588;America/New_York
+Rancho Cucamonga;341.064;-11.759.311;175236;America/Los_Angeles
+Oceanside;3.319.587;-11.737.948;175691;America/Los_Angeles
+Santa Rosa;3.844.047;-12.271.443;174972;America/Los_Angeles
+Garden Grove;3.377.391;-11.794.145;175393;America/Los_Angeles
+Vancouver;4.563.873;-12.266.149;172860;America/Los_Angeles
+Sioux Falls;4.354.997;-9.670.033;171544;America/Chicago
+Ontario;3.406.334;-11.765.089;171214;America/Los_Angeles
+McKinney;3.319.762;-9.661.527;162898;America/Chicago
+Elk Grove;384.088;-12.137.162;166913;America/Los_Angeles
+Jackson;3.229.876;-9.018.481;170674;America/Chicago
+Pembroke Pines;2.600.315;-8.022.394;166611;America/New_York
+Salem;449.429;-1.230.351;164549;America/Los_Angeles

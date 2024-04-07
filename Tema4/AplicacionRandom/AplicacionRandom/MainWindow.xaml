@@ -1,0 +1,18 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplicacionRandom"
+        xmlns:EjercicioRandomComponente="clr-namespace:EjercicioRandomComponente;assembly=EjercicioRandomComponente" x:Class="AplicacionRandom.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <Button Content="Abrir imagen" Click="OpenImageDialog" Margin="164,186,233,73"/>
+
+        <EjercicioRandomComponente:UserControl1 x:Name="control" HorizontalAlignment="Left" Margin="171,48,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

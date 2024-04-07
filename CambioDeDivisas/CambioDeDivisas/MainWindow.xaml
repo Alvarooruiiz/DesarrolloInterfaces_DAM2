@@ -1,0 +1,59 @@
+﻿<Window x:Class="CambioDeDivisas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CambioDeDivisas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MinHeight="450" MinWidth="800">
+    <Grid>
+        <StackPanel Margin="10">
+
+            <GroupBox Header="Monto a Cambiar" Width="371" HorizontalAlignment="Left">
+                <TextBox Name="txtMonto" Width="120" HorizontalAlignment="Left"/>
+            </GroupBox>
+
+            <GroupBox Header="Tipo de Divisas" Width="371" HorizontalAlignment="Left">
+                <StackPanel>
+                    <RadioButton Content="Euro" Name="rbEuro"/>
+                    <RadioButton Content="Dólar" Name="rbDolar"/>
+                    <RadioButton Content="Libra" Name="rbLibra"/>
+                    <RadioButton Content="Yen" Name="rbYen"/>
+                    <RadioButton Content="Franco Suizo" Name="rbFrancoSuizo"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Divisas para el Intercambio" HorizontalAlignment="Left" Width="371">
+                <StackPanel>
+                    <CheckBox Content="Euro" Name="chkEuro"/>
+                    <CheckBox Content="Dólar" Name="chkDolar"/>
+                    <CheckBox Content="Libra" Name="chkLibra"/>
+                    <CheckBox Content="Yen" Name="chkYen"/>
+                    <CheckBox Content="Franco Suizo" Name="chkFrancoSuizo"/>
+                </StackPanel>
+            </GroupBox>
+
+
+            <GroupBox Header="Método de Pago" HorizontalAlignment="Left" Width="371">
+                <StackPanel>
+                    <RadioButton Content="Efectivo (1% de comisión)" Name="rbEfectivo"/>
+                    <RadioButton Content="Transferencia (2% de comisión)" Name="rbTransferencia"/>
+                    <RadioButton Content="Tarjeta (3% de comisión)" Name="rbTarjeta"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Cliente Habitual" Width="371" HorizontalAlignment="Left">
+                <ComboBox Name="cmbClienteHabitual">
+                    <ComboBoxItem x:Name="cbItem" Content="Sí"/>
+                    <ComboBoxItem Content="No"/>
+                </ComboBox>
+            </GroupBox>
+
+            <Button x:Name="btAccion" Content="Calcular Cambio" Click="btAccion_Click" Margin="0,10,0,0"/>
+            <ComboBox Width="120"/>
+
+        </StackPanel>
+
+
+    </Grid>
+</Window>

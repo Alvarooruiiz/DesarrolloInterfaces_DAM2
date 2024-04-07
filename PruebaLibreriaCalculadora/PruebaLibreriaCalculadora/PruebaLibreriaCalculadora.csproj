@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BibliotecaControlesUsuario">
+      <HintPath>..\..\Tema4\BibliotecaControlesUsuario\BibliotecaControlesUsuario\bin\Debug\net6.0-windows\BibliotecaControlesUsuario.dll</HintPath>
+    </Reference>
+    <Reference Include="PrimerComponenteLibreria">
+      <HintPath>..\..\PrimerComponenteLibreria\PrimerComponenteLibreria\bin\Debug\net6.0\PrimerComponenteLibreria.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

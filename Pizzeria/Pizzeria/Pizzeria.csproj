@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="59a838b64d074089a3f60aee1004921c-rebanada-de-pizza-duotono.png" />
+    <None Remove="cb5bdad49312bd35e7413942afc94c3e.jpg" />
+    <None Remove="descarga.png" />
+    <None Remove="pngtree-notepad-vector-flat-icon-png-image_2307564.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="59a838b64d074089a3f60aee1004921c-rebanada-de-pizza-duotono.png" />
+    <Resource Include="cb5bdad49312bd35e7413942afc94c3e.jpg" />
+    <Resource Include="descarga.png" />
+    <Resource Include="pngtree-notepad-vector-flat-icon-png-image_2307564.jpg" />
+  </ItemGroup>
+
+</Project>
